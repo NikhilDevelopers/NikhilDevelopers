@@ -44,33 +44,7 @@ namespace JsonOpertioninApi.Controllers
             }
         }
 
-        public ActionResult Get1()
-        {
-
-
-            try
-            {
-
-
-                //dynamic jsonObj = Newtonsoft.Json.JsonConvert.DeserializeObject(s.Addjson(constantFile.EngineList).ToString());
-                string input = s.Addjson(constantFile.EngineList).ToString();
-
-                VMTypeengines DeVMTyreTypes = JsonConvert.DeserializeObject<VMTypeengines>(input.ToString());
-
-                string onString = JsonConvert.SerializeObject(DeVMTyreTypes, Formatting.Indented);
-
-                return Ok(onString);
-
-
-                //return Ok(jsonObj);
-
-            }
-            catch (Exception ex)
-            {
-
-                return new JsonResult(null);
-            }
-        }
+       
         [HttpPost]
         public ActionResult Post(VMTypeengine t)
         {
