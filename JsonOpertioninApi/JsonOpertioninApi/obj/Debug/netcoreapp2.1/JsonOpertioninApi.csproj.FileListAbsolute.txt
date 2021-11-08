@@ -1,0 +1,33 @@
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.deps.json
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.runtimeconfig.json
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.runtimeconfig.dev.json
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.dll
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.pdb
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.AssemblyInfoInputs.cache
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.AssemblyInfo.cs
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.csproj.CoreCompileInputs.cache
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorAssemblyInfo.cache
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorAssemblyInfo.cs
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorTargetAssemblyInfo.cache
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.dll
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.pdb
+D:\Nikhil Pro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.genruntimeconfig.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\appsettings.json
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.deps.json
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.runtimeconfig.json
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.runtimeconfig.dev.json
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.dll
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\bin\Debug\netcoreapp2.1\JsonOpertioninApi.pdb
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.csprojAssemblyReference.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.AssemblyInfoInputs.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.AssemblyInfo.cs
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.csproj.CoreCompileInputs.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorAssemblyInfo.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorAssemblyInfo.cs
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.RazorTargetAssemblyInfo.cache
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.dll
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.pdb
+D:\NikhilPro\JsonOpertioninApi\JsonOpertioninApi\obj\Debug\netcoreapp2.1\JsonOpertioninApi.genruntimeconfig.cache

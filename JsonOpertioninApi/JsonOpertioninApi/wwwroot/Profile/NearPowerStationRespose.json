@@ -1,0 +1,25 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"chargeStation": [{
+			"id": 1,
+			"name": "Royal Service Indian Oil Petrol Pump",
+			"lat": "18.5289892"
+		},
+		{
+			"id": 2,
+			"name": "Indian Oil Petrol Pump",
+			"lat": "18.7573626"
+		},
+		{
+			"id": 3,
+			"name": "Mahanagar Gas Cng Pump",
+			"lat": "18.4571624"
+		},
+		{
+			"id": 4,
+			"name": "Hindustan Petroleum Corporation Limited",
+			"lat": "18.5329442"
+		}
+	]
+}

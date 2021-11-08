@@ -1,0 +1,26 @@
+{
+  "statusCode": 200,
+  "statusMessage": "Ok",
+  "typeEngine": [
+    {
+      "id": 1,
+      "engineName": "Petrol"
+    },
+    {
+      "id": 2,
+      "engineName": "CNG"
+    },
+    {
+      "id": 3,
+      "engineName": "Desiel"
+    },
+    {
+      "id": 4,
+      "engineName": "Electric"
+    },
+    {
+      "id": 5,
+      "engineName": "Power Petrol"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"vechicleType": [
+		{
+			"id": 2,
+			"vechicleType": "4 sit"
+
+		},
+		{
+			"id": 3,
+			"vechicleType": "4 sit"
+
+		}
+	]
+}

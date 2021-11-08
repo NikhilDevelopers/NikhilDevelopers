@@ -1,0 +1,72 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"owner": [
+
+		{
+			"id": 2,
+			"name": "Nikhil",
+			"vechicles": [
+				{
+					"id": 1,
+					"name": "Activa",
+					"typeEngine": {
+						"id": 1,
+						"engineName": "Petrol"
+
+					},
+					"manufacturer": {
+						"id": 3,
+						"name": "Honda"
+
+					},
+					"model": {
+						"id": 2,
+						"name": "4G",
+						"manufactureId": 3
+
+					},
+					"vechicleType": {
+						"id": 1,
+						"vechicleType": "4 sit"
+
+					}
+
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Ram Sharma",
+			"vechicles": [
+				{
+					"id": 1,
+					"name": "Tata Bike",
+					"typeEngine": {
+						"id": 1,
+						"engineName": "Petrol"
+
+					},
+					"manufacturer": {
+						"id": 2,
+						"name": "TVS"
+
+					},
+					"model": {
+						"id": 4,
+						"name": "TVS RTR",
+						"manufactureId": 3
+
+					},
+					"vechicleType": {
+						"id": 1,
+						"vechicleType": "4 sit"
+
+					}
+
+				}
+			]
+		}
+
+	]
+}

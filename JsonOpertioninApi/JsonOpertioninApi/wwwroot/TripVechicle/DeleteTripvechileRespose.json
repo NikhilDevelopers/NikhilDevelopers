@@ -1,0 +1,38 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"TripVehicle": [
+		{
+			"id": 2,
+			"userName": "Kiran",
+			"trip": [{
+				"id": 1,
+				"sourceName": "Mumbai",
+				"destinationName": "Goa",
+				"sLat": "19.0821978",
+				"sLog": "72.7410994",
+				"dLat": "15.347038",
+				"dLog": "73.7321103",
+				"vechileId":1
+			}]
+		},
+
+		{
+			"id": 3,
+			"userName": "Ram",
+			"trip": [{
+				"id": 1,
+				"sourceName": "Gujarat",
+				"destinationName": "Hyderabad",
+				"sLat": "22.4013366",
+				"sLog": "69.0751436",
+				"dLat": "17.4122998",
+				"dLog": "78.2679587",
+				"vechileId":2
+			}]
+		}
+	]
+
+
+
+}

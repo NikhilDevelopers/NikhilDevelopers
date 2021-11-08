@@ -1,0 +1,23 @@
+{
+  "statusCode": 200,
+  "statusMessage": "Ok",
+  "manufacturer": [
+    {
+      "id": 1,
+      "name": "Tata"
+    },
+    {
+      "id": 2,
+      "name": "TVS"
+    },
+    {
+      "id": 3,
+      "name": "Honda"
+    },
+    {
+      "id": 4,
+      "name": "Revot"
+    }
+    
+  ]
+}

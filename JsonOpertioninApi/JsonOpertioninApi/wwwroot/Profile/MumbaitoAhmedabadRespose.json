@@ -1,0 +1,30 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"chargeStation": [{
+			"id": 1,
+			"name": "wattz",
+			"lat": "18.5289892"
+		},
+		{
+			"id": 2,
+			"name": "Tata Power Charging Station",
+			"lat": "18.7573626"
+		},
+		{
+			"id": 3,
+			"name": "STAR SERVICE STATION PETROL",
+			"lat": "18.818890317796253"
+		},
+		{
+			"id": 4,
+			"name": "Indian Oil Guruprasad Services",
+			"lat": "19.0997204"
+		},
+		{
+			"id": 5,
+			"name": "Bharat Petroleum, Petrol Pump -Autopet",
+			"lat": "19.4396764"
+		}
+	]
+}

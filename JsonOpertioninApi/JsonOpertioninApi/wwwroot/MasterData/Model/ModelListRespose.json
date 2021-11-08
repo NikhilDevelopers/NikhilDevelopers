@@ -1,0 +1,36 @@
+{
+  "statusCode": 200,
+  "statusMessage": "Ok",
+  "model": [
+    {
+      "id": 1,
+      "name": "5G",
+      "manufactureId": 3
+    },
+    {
+      "id": 2,
+      "name": "4G",
+      "manufactureId": 3
+    },
+    {
+      "id": 3,
+      "name": "HeroMoterCop",
+      "manufactureId": 3
+    },
+    {
+      "id": 4,
+      "name": "TVS RTR",
+      "manufactureId": 3
+    },
+    {
+      "id": 5,
+      "name": "Tata",
+      "manufactureId": 1
+    },
+    {
+      "id": 6,
+      "name": "Tata1",
+      "manufactureId": 1
+    }
+  ]
+}

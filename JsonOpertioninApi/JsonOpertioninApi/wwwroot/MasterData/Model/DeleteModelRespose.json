@@ -1,0 +1,25 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"model": [
+		{
+			"id": 2,
+			"name": "4G",
+			"manufactureId": 3
+
+		},
+		
+		{
+			"id": 4,
+			"name": "TVS RTR",
+			"manufactureId": 3
+
+		},
+		{
+					"id": 5,
+					"name": "Tata",
+					"manufactureId": 1
+
+				}
+	]
+}

@@ -1,0 +1,87 @@
+{
+	"statusCode": 200,
+	"statusMessage": "Ok",
+	"vechicles": [
+		{
+			"id": 1,
+			"name": "TVS Apache",
+			"typeEngine": {
+				"id": 1,
+				"engineName": "Petrol"
+
+			},
+			"manufacturer": {
+				"id": 2,
+				"name": "TVS"
+
+			},
+			"model": {
+				"id": 4,
+				"name": "TVS RTR",
+				"manufactureId": 3
+
+			},
+			"vechicleType": {
+				"id": 1,
+				"vechicleType": "4 sit"
+
+			}
+
+		},
+		{
+			"id": 2,
+			"name": "Activa",
+			"typeEngine": {
+				"id": 1,
+				"engineName": "Petrol"
+
+			},
+			"manufacturer": {
+				"id": 3,
+				"name": "Honda"
+
+			},
+			"model": {
+				"id": 2,
+				"name": "4G",
+				"manufactureId": 1
+
+			},
+			"vechicleType": {
+				"id": 1,
+				"vechicleType": "4 sit"
+
+			}
+
+		},
+		{
+			"id": 3,
+			"name": "Tata Bike",
+			"typeEngine": {
+				"id": 1,
+				"engineName": "Petrol"
+
+			},
+			"manufacturer": {
+				"id": 2,
+				"name": "TVS"
+
+			},
+			"model": {
+				"id": 4,
+				"name": "TVS RTR",
+				"manufactureId": 3
+
+			},
+			"vechicleType": {
+				"id": 1,
+				"vechicleType": "4 sit"
+
+			}
+
+		}
+
+
+
+	]
+}
